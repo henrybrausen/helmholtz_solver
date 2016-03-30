@@ -1,6 +1,7 @@
 # helmholtz_solver
 Simulates the (time-independent) wave equation in 2D environments using a finite-difference approach.
-Inspired by [this great blog post.](http://jasmcole.com/2014/08/25/helmhurts/)
+
+(Inspired by [this great blog post.](http://jasmcole.com/2014/08/25/helmhurts/))
 
 For example, starting with the floorplan of my apartment:
 
